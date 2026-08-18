@@ -1,5 +1,7 @@
 # 🐂 Bullhub
 
+CA : 7sVRuhvQoMvcZ8bAQrscsv2BFGdmSeHWxanF1Zxhpump
+
 > **Trade the move, not the noise.**
 
 Bullhub is a real-time crypto market intelligence interface built around live cryptocurrency price movements.
